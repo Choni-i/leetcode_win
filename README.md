@@ -6,6 +6,7 @@ Solutions of the LeetCode tasks
 
 | Number        | Name          | Task difficulty    | Status        | Idea        |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| 27            | Remove Element | ```Easy 🟢``` |[Solved]([solutions/Task_35.ipynb](https://leetcode.com/problems/remove-element/description/))| I think i need go from the end, but solution more easy - have 2 index: one for go on the array, two for reght place in massiv |
+| 27            | Remove Element | ```Easy 🟢``` |[Solved]([solutions/Task_35.ipynb](https://leetcode.com/problems/remove-element/description/))| I think i need go from the end, but solution more easy - have 2 index: one for go on the array, two for right place in massiv |
 | 26            | Remove Duplicates from Sorted Array | ```Easy 🟢``` |[Solved](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)([solutions/26])| Solved too mach fast, in general it is similar to previous |
+| 1346          | Check If N and Its Double Exist | ```Easy 🟢``` |[Solved]([solutions/Task_35.ipynb](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/))| Я верно думала про ноль, просмотренные set держит arr[i]!! |
 
