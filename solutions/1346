@@ -1,0 +1,11 @@
+class Solution:
+    def checkIfExist(self, arr: List[int]) -> bool:
+        res = list()
+        for i in range(len(arr)):
+            if arr[i]*2 in res:
+                return True
+            elif arr[i]%2==0:
+                if arr[i]//2 in res:
+                    return True   
+            res.append(arr[i]) 
+        return False
